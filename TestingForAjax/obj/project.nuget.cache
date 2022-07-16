@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "uklbV0c3MzWnUUfW0lfPP5H5yZ2yZfGqIX1Sk5Nk5rK+Yb92n1QsxOqrkbmzWu/tTsJZ1UL+8oXIvqmcAsgG7Q==",
+  "dgSpecHash": "EKU8+BshePIKIe92qkM3iYYnXEOAIzQUfK8RSkbhC3syz34qS48tR7PcmXS1+24/x7BSwp2Om9C8ObBilVM9dw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\grengo\\source\\repos\\TestingForAjax\\TestingForAjax\\TestingForAjax.csproj",
+  "projectFilePath": "C:\\Users\\umair\\Desktop\\TestProjects\\ajaxtesting\\TestingForAjax\\TestingForAjax.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\grengo\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.9\\microsoft.aspnet.mvc.5.2.9.nupkg.sha512",
-    "C:\\Users\\grengo\\.nuget\\packages\\microsoft.aspnet.razor\\3.2.9\\microsoft.aspnet.razor.3.2.9.nupkg.sha512",
-    "C:\\Users\\grengo\\.nuget\\packages\\microsoft.aspnet.webpages\\3.2.9\\microsoft.aspnet.webpages.3.2.9.nupkg.sha512",
-    "C:\\Users\\grengo\\.nuget\\packages\\microsoft.web.infrastructure\\1.0.0\\microsoft.web.infrastructure.1.0.0.nupkg.sha512"
+    "C:\\Users\\umair\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.9\\microsoft.aspnet.mvc.5.2.9.nupkg.sha512",
+    "C:\\Users\\umair\\.nuget\\packages\\microsoft.aspnet.razor\\3.2.9\\microsoft.aspnet.razor.3.2.9.nupkg.sha512",
+    "C:\\Users\\umair\\.nuget\\packages\\microsoft.aspnet.webpages\\3.2.9\\microsoft.aspnet.webpages.3.2.9.nupkg.sha512",
+    "C:\\Users\\umair\\.nuget\\packages\\microsoft.web.infrastructure\\1.0.0\\microsoft.web.infrastructure.1.0.0.nupkg.sha512"
   ],
   "logs": [
     {
